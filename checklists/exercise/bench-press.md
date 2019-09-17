@@ -1,0 +1,6 @@
+- [ ] make sure bar is safely on rack
+- [ ] put weights on bar
+- [ ] put stoppers on
+- [ ] sit on bench
+- [ ] arch back
+- [ ] lift
