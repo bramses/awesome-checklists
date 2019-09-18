@@ -1,3 +1,4 @@
+# Make a new Gatsby project
 - [ ] Install Gatsby CLI
 ```sh
 npm install -g gatsby-cli
